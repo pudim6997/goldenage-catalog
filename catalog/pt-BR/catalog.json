@@ -1,0 +1,127 @@
+{
+  "version": "1.0.0",
+  "language": "pt-BR",
+  "lastUpdated": "2026-05-14",
+  "series": [
+    {
+      "id": "superman-fleischer",
+      "title": "Superman",
+      "studio": "Fleischer Studios",
+      "years": "1941-1942",
+      "description": "Os 17 curtas originais do Superman, considerados a melhor animacao de super-heroi dos anos 40. Animacao extraordinaria para a epoca.",
+      "thumbnailUrl": "https://archive.org/services/img/Superman_1941",
+      "colorPrimary": "#1A3A6B",
+      "colorAccent": "#C41E3A",
+      "copyright": "Dominio Publico",
+      "copyrightVerified": true,
+      "episodes": [
+        {
+          "id": "sup-001",
+          "seriesId": "superman-fleischer",
+          "title": "The Mad Scientist",
+          "year": 1941,
+          "durationSeconds": 600,
+          "description": "Primeiro curta da serie. O Cientista Louco ameaca Metropolis com um raio destruidor.",
+          "thumbnailUrl": "https://archive.org/services/img/Superman_1941",
+          "videoUrl": "https://archive.org/download/Superman_1941/Superman_1941.mp4",
+          "archiveUrl": "https://archive.org/details/Superman_1941",
+          "episodeNumber": 1,
+          "hasHistoricalWarning": false
+        },
+        {
+          "id": "sup-002",
+          "seriesId": "superman-fleischer",
+          "title": "The Mechanical Monsters",
+          "year": 1941,
+          "durationSeconds": 600,
+          "description": "Robos gigantes roubam bancos. Considerado o melhor curta da serie. Inspirou Hayao Miyazaki.",
+          "thumbnailUrl": "https://archive.org/services/img/TheMechanicalMonsters",
+          "videoUrl": "https://archive.org/download/TheMechanicalMonsters/TheMechanicalMonsters.mp4",
+          "archiveUrl": "https://archive.org/details/TheMechanicalMonsters",
+          "episodeNumber": 2,
+          "hasHistoricalWarning": false
+        },
+        {
+          "id": "sup-003",
+          "seriesId": "superman-fleischer",
+          "title": "Billion Dollar Limited",
+          "year": 1942,
+          "durationSeconds": 540,
+          "description": "Superman salva um trem carregado de ouro de uma gangue criminosa.",
+          "thumbnailUrl": "https://archive.org/services/img/BillionDollarLimited",
+          "videoUrl": "https://archive.org/download/BillionDollarLimited/BillionDollarLimited.mp4",
+          "archiveUrl": "https://archive.org/details/BillionDollarLimited",
+          "episodeNumber": 3,
+          "hasHistoricalWarning": false
+        }
+      ]
+    },
+    {
+      "id": "betty-boop",
+      "title": "Betty Boop",
+      "studio": "Fleischer Studios",
+      "years": "1930-1939",
+      "description": "Os curtas originais da Betty Boop â€” iconica pela animacao fluida e o humor ousado da Era da Proibicao.",
+      "thumbnailUrl": "https://archive.org/services/img/Betty_Boop_Dizzy_Dishes",
+      "colorPrimary": "#C4A882",
+      "colorAccent": "#8B1A1A",
+      "copyright": "Dominio Publico",
+      "copyrightVerified": true,
+      "episodes": [
+        {
+          "id": "bb-001",
+          "seriesId": "betty-boop",
+          "title": "Dizzy Dishes",
+          "year": 1930,
+          "durationSeconds": 390,
+          "description": "Primeira aparicao da Betty. Ela canta e danca num restaurante caotico.",
+          "thumbnailUrl": "https://archive.org/services/img/Betty_Boop_Dizzy_Dishes",
+          "videoUrl": "https://archive.org/download/Betty_Boop_Dizzy_Dishes/Betty_Boop_Dizzy_Dishes.mp4",
+          "archiveUrl": "https://archive.org/details/Betty_Boop_Dizzy_Dishes",
+          "episodeNumber": 1,
+          "hasHistoricalWarning": false
+        },
+        {
+          "id": "bb-002",
+          "seriesId": "betty-boop",
+          "title": "Minnie the Moocher",
+          "year": 1932,
+          "durationSeconds": 420,
+          "description": "Betty foge de casa e encontra Cab Calloway. Famoso rotoscope animation.",
+          "thumbnailUrl": "https://archive.org/services/img/MinnietheMoocher",
+          "videoUrl": "https://archive.org/download/MinnietheMoocher/MinnietheMoocher.mp4",
+          "archiveUrl": "https://archive.org/details/MinnietheMoocher",
+          "episodeNumber": 2,
+          "hasHistoricalWarning": false
+        }
+      ]
+    },
+    {
+      "id": "popeye-fleischer",
+      "title": "Popeye",
+      "studio": "Fleischer Studios",
+      "years": "1933-1942",
+      "description": "Selecao verificada dos curtas Popeye Fleischer em dominio publico.",
+      "thumbnailUrl": "https://archive.org/services/img/Popeye_the_Sailor_1933",
+      "colorPrimary": "#1B4D3E",
+      "colorAccent": "#F4A017",
+      "copyright": "Dominio Publico",
+      "copyrightVerified": true,
+      "episodes": [
+        {
+          "id": "pop-001",
+          "seriesId": "popeye-fleischer",
+          "title": "Popeye the Sailor",
+          "year": 1933,
+          "durationSeconds": 420,
+          "description": "Primeiro curta solo do Popeye. Bluto sequestra Olive Oyl num parque de diversoes.",
+          "thumbnailUrl": "https://archive.org/services/img/Popeye_the_Sailor_1933",
+          "videoUrl": "https://archive.org/download/Popeye_the_Sailor_1933/Popeye_the_Sailor_1933.mp4",
+          "archiveUrl": "https://archive.org/details/Popeye_the_Sailor_1933",
+          "episodeNumber": 1,
+          "hasHistoricalWarning": false
+        }
+      ]
+    }
+  ]
+}
